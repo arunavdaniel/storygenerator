@@ -1,1 +1,1 @@
-# storygenerator
+# Story Generator
